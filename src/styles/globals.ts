@@ -7,6 +7,10 @@ export const globalStyles = globalCss({
   },
   body: {
     backgroundColor: '$background',
+    color: '$blue900',
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
     '-webkit-font-smoothing': 'antialiased',
   },
 })

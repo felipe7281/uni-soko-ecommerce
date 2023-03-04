@@ -20,7 +20,7 @@ export const {
       blue500: '#004B84',
       blue300: '#4A99D3',
 
-      background: '#62727A',
+      background: '#E5E5E5',
 
       red: '#FC0B0D',
     },
