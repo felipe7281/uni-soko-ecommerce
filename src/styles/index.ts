@@ -19,6 +19,7 @@ export const {
       blue800: '#004B84',
       blue500: '#004B84',
       blue300: '#4A99D3',
+      blue100: '#EAF6FF',
 
       background: '#E5E5E5',
 

@@ -6,9 +6,11 @@ import {
 } from './styles'
 
 export function Header() {
+  const textTitle = 'Uni-soko'
+
   return (
     <HeaderContainer>
-      <TitleContainer>Uni-Soko</TitleContainer>
+      <TitleContainer>{textTitle}</TitleContainer>
       <RegisterAndSellContainer>
         <button>
           <User size={44} weight="fill" />

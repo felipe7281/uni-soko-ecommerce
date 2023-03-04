@@ -21,6 +21,7 @@ export const RegisterAndSellContainer = styled('span', {
   gap: '5.25rem',
 
   button: {
+    gap: '0.5rem',
     cursor: 'pointer',
     border: 'none',
     backgroundColor: 'transparent',
