@@ -3,9 +3,13 @@ import { styled } from '../../styles'
 export const HeaderContainer = styled('div', {
   display: 'flex',
   alignItems: 'center',
-  justifyContent: 'space-between',
-  width: '67.1875rem',
+  justifyContent: 'space-evenly',
+  width: '100%',
+  height: '7.75rem',
   marginTop: '1.875rem',
+  position: 'sticky',
+  top: '0',
+  backgroundColor: '$white',
 })
 
 export const TitleContainer = styled('span', {
